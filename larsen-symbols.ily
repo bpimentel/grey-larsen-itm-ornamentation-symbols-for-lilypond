@@ -7,7 +7,7 @@
 
   % 1. Put this file in the same folder as the .ly file you are working on, or, even better, somewhere in your Lilypond include path.
   % 2. Add the following line near the top of your .ly file, under the "version" line (do not include the percent sign):
-  %  \include "bp/larsen-symbols.ily"
+  %  \include "larsen-symbols.ily"
   % 3. Add symbols to notes using this syntax (no percent sign):
   %  c\crann
   % The following symbols are available: 
